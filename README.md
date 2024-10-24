@@ -89,7 +89,7 @@ Hi, I'm Kousik Naskar!
 <p align="center">
 	<a href="https://github.com/kousik23naskar">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kousik23naskar&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kousik23naskar">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousik23naskar&langs_count=5&layout=compact" alt="kousik23naskar">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousik23naskar&langs_count=10&layout=compact" alt="kousik23naskar">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kousik23naskar" alt="kousik23naskar">	
 	</a>
 	<br/>
