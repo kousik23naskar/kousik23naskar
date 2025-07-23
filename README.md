@@ -12,7 +12,7 @@ Hi, I'm Kousik Naskar!
 <br/>
 <p align="center">
 	<a href="https://github.com/kousik23naskar">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=PhD+in+Particle+Physics;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=PhD+in+Computational+Physics;Quantitative%20Research%20|%20DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=600&height=45">
     <!--
     <img src="https://readme-typing-svg.herokuapp.com?lines=PhD+in+Computational+Physics;Data+Science+Enthusiast;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
     -->
@@ -20,25 +20,28 @@ Hi, I'm Kousik Naskar!
 </p>
 
 ### I have technical experience and interest in:
+* Quantitative Research
 * Machine Learning
 * Deep Learning
 * Computer vision 
 * Natural Language Processing
 * MLOps
 * Generative AI
+* Agentic AI
 * AWS
+* AZURE
 
 <!--
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
+💻 I am a Quantitative/AI/ML Researcher and Developer
+📚 I have a PhD in Computer Physics from the IIT Bombay in Collaboration with CERN
 📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
+🔭 Working on Deep Learning, Machine Learning and Generative AI
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+🌟 Main languages: Python, C++
+🚩 Interested in end-to-end quantitative/AI/ML Application development
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
@@ -80,6 +83,8 @@ Hi, I'm Kousik Naskar!
 - [Coursera Certified Machine Learning](https://www.coursera.org/account/accomplishments/specialization/EHD8WPSQCSVC)
 - [Coursera Certified Deep Learning](https://www.coursera.org/account/accomplishments/specialization/5E5Q4VF9ETLZ)
 - [Coursera Certified Natural Language Processing](https://www.coursera.org/account/accomplishments/specialization/5QCJSFC542GQ)
+- [Coursera Certified Generative AI for Everyone](https://www.coursera.org/account/accomplishments/verify/A5G2PCWXYNAX)
+- [Coursera Certified Generative AI with Large Language Models](https://www.coursera.org/account/accomplishments/verify/19ZDLENQTDZY)
 </br>
 
 
@@ -89,7 +94,7 @@ Hi, I'm Kousik Naskar!
 <p align="center">
 	<a href="https://github.com/kousik23naskar">
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kousik23naskar&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="kousik23naskar">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousik23naskar&langs_count=10&layout=compact" alt="kousik23naskar">
+	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousik23naskar&langs_count=8&layout=compact" alt="kousik23naskar">
 	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kousik23naskar" alt="kousik23naskar">	
 	</a>
 	<br/>
